@@ -5,7 +5,7 @@ export const NavBar = () => {
   const { height } = useWindowDimensions();
   return (
     <div style={{ backgroundColor: "green", height: height * 0.05 }}>
-      NavBar
+      NavBar 12313
     </div>
   );
 };
