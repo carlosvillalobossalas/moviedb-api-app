@@ -1,3 +1,3 @@
 export const Leaderboard = () => {
-  return <div style={{ backgroundColor: "white", flex: 1 }}>Leaderboard</div>;
+  return <div style={{ backgroundColor: "pink", flex: 1 }}>Leaderboard</div>;
 };

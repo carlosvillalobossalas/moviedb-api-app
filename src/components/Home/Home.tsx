@@ -7,15 +7,16 @@ import {
   SearchBar,
   Trending,
 } from "../index";
+
+import "../components.css";
 const Home = () => {
   return (
     <div
       style={{
         backgroundColor: "black",
-        height: "100%",
+        height: "90%",
         display: "flex",
         flexDirection: "column",
-        overflowY: "scroll",
       }}
     >
       <NavBar />

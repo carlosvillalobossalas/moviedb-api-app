@@ -1,0 +1,16 @@
+.navbar{
+    background-color: rgba(5, 46, 79, 0.786);
+    color: white;
+    display: flex;
+    border: 1px solid red;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navbar p {
+    cursor: pointer;
+}
+
+.react-icons{
+    cursor: pointer;
+}
